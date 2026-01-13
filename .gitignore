@@ -2,3 +2,4 @@
 venv/
 data/
 aclImdb/
+notebooks/resultados_knn
